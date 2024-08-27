@@ -16,4 +16,4 @@ As tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/PedroArthur04/desafioalura.gitl) ou [acessar o deploy](https://decodificadordetexto-g41h36u3h-pedroarthur04s-projects.vercel.app/).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/PedroArthur04/desafioalura) ou [acessar o deploy](https://decodificadordetexto-g41h36u3h-pedroarthur04s-projects.vercel.app/).
