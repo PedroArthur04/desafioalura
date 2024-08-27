@@ -1,4 +1,4 @@
-# Decodificador de Texto
+# DECODIFICADOR DE TEXTO
 
 Codificador e Decodificador de texto. Desafio proposto pelo curso da Alura.
 
