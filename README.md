@@ -10,9 +10,9 @@ O site recebe o texto inserido pelo usuário e fornece a opção de codificá-lo
 
 As tecnologias utilizadas pra isso são:
 
-- `HTML`: container para apresentar cada produto na lista de produtos
-- `CSS`: listagem das produtos
-- `JavaScript`: ViewGroup padrão para implementar todos os layouts
+- `HTML`
+- `CSS`
+- `JavaScript`
 
 ## 📁 Acesso ao projeto
 
