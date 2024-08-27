@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=New+Amsterdam&family=Rowdies:wght@300;400;700&display=swap');
+
+.titulo {
+    color: #FFE5B5;
+    font-size: 30px;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #760000;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.caixa {
+    display: flex;
+    gap: 100px;
+    padding: 20px;
+    background-color: #FFE5B5;
+    border-radius: 8px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.textoEntrada, .textoSaida {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+textarea {
+    width: 600px;
+    height: 400px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #760000;
+    border-radius: 5px;
+    resize: none;
+}
+
+.botoes {
+    display: flex;
+    gap: 40px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f92d2d;
+    color: white;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    background-color: #fd4d4d;
+}
+
+.copiarTexto {
+    margin-top: 10px;
+}
+
+.rodape {
+    color: #FFE5B5;
+    font-size: 12px;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
