@@ -1,4 +1,4 @@
-# Titulo do projeto
+# Decodificador de Texto
 
 Codificador e Decodificador de texto. Desafio proposto pelo curso da Alura.
 
@@ -8,7 +8,7 @@ O site recebe o texto inserido pelo usuário e fornece a opção de codificá-lo
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-As técnicas e tecnologias utilizadas pra isso são:
+As tecnologias utilizadas pra isso são:
 
 - `HTML`: container para apresentar cada produto na lista de produtos
 - `CSS`: listagem das produtos
